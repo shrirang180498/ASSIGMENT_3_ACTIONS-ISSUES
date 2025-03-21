@@ -36,3 +36,11 @@ The requirements have been categorized into **Functional** and **System** requir
    - Support for **multiple data formats** (e.g., CSV, JSON) should be included to facilitate easy data import and export.  
 
 ---
+
+## Actionable Tasks  
+To ensure the project is executed effectively, the requirements have been broken down into specific, actionable tasks. These tasks are organized by category and priority, ensuring a logical and efficient implementation process.  
+
+### **1. Categorized Training Questions**  
+- **Task 1.1:** Design and implement a **user interface (UI)** for categorizing training questions by subject, difficulty, and tags. The UI should be intuitive and easy to use.  
+- **Task 1.2:** Develop a **backend system** to store categorized questions separately from answers. Ensure the system supports efficient querying and retrieval.  
+- **Task 1.3:** Implement a **search and filter feature** to allow developers to quickly locate questions based on categories, tags, or difficulty levels. 
