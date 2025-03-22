@@ -76,3 +76,9 @@ To ensure the project progresses smoothly, the tasks have been prioritized based
 2. **Task 1.2:** Develop the **backend system** for storing categorized questions.  
 3. **Task 3.1:** Optimize the system for **scalability**.  
 4. **Task 4.1:** Implement **data encryption**.  
+
+
+### **Medium Priority Tasks (Can be developed after high-priority tasks):**  
+1. **Task 2.1:** Implement the **bias detection algorithm**.  
+2. **Task 2.2:** Develop the **data distribution dashboard**.  
+3. **Task 5.1:** Integrate the system with **web scraping tools**. 
