@@ -37,15 +37,13 @@ This project focuses on organizing and optimizing AI training data for accuracy,
 
 
 # Clone the Repository
+```bash
 git clone git@github.com:shrirang180498/ASSIGMENT_3_ACTIONS-ISSUES.git
 cd ASSIGMENT_3_ACTIONS-ISSUES
 
 # Set Up Virtual Environment (Optional but Recommended)
-python3 -m venv venv
-source venv/bin/activate
 
 # Install Dependencies
-pip install -r requirements.txt
 
 # Run the Application
-python main.py
+
