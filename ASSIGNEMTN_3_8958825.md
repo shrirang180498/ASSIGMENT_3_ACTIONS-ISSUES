@@ -52,3 +52,7 @@ To ensure the project is executed effectively, the requirements have been broken
 - **Task 2.3:** Build a **data filtering and modification tool** to allow developers to remove or adjust biased data points, ensuring a balanced dataset. 
 
 
+### **3. System Scalability**  
+- **Task 3.1:** Optimize the system to handle **large datasets** (millions of questions and answers) without performance issues. This includes implementing efficient database indexing and query optimization.  
+- **Task 3.2:** Introduce **parallel processing** to speed up data classification, analysis, and bias detection tasks.  
+
