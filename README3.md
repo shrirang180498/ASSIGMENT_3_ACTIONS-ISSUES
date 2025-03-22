@@ -9,7 +9,7 @@ This project focuses on organizing and optimizing AI training data for accuracy,
 ---
 
 ## Features
-```bash
+
 1. Categorized Training Questions
    - Developers can classify questions by subject, difficulty, and tags.
    - A user-friendly UI for easy categorization and tagging.
