@@ -82,3 +82,11 @@ To ensure the project progresses smoothly, the tasks have been prioritized based
 1. **Task 2.1:** Implement the **bias detection algorithm**.  
 2. **Task 2.2:** Develop the **data distribution dashboard**.  
 3. **Task 5.1:** Integrate the system with **web scraping tools**. 
+
+
+### **Low Priority Tasks (Can be developed last):**  
+1. **Task 1.3:** Implement the **search and filter feature**.  
+2. **Task 2.3:** Develop the **data filtering and modification tool**.  
+3. **Task 3.2:** Introduce **parallel processing**.  
+4. **Task 4.2:** Implement **access control**.  
+5. **Task 5.2:** Support **multiple data formats**.  
