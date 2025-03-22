@@ -1,4 +1,4 @@
-# Assignment 3: Actionable Items  
+# Assignment 3: Actionable Tasks for Project  
 **Course:** SENG8091-25W-Sec1-Software Engineering Principles  
 
 ---
@@ -44,3 +44,11 @@ To ensure the project is executed effectively, the requirements have been broken
 - **Task 1.1:** Design and implement a **user interface (UI)** for categorizing training questions by subject, difficulty, and tags. The UI should be intuitive and easy to use.  
 - **Task 1.2:** Develop a **backend system** to store categorized questions separately from answers. Ensure the system supports efficient querying and retrieval.  
 - **Task 1.3:** Implement a **search and filter feature** to allow developers to quickly locate questions based on categories, tags, or difficulty levels. 
+
+
+### **2. Balanced Training Data**  
+- **Task 2.1:** Develop a **bias detection algorithm** to analyze training data for potential biases (e.g., racial, gender, cultural). The algorithm should generate detailed reports for developers.  
+- **Task 2.2:** Create a **dashboard** to visualize the distribution of training data across categories. The dashboard should include interactive charts and metrics.  
+- **Task 2.3:** Build a **data filtering and modification tool** to allow developers to remove or adjust biased data points, ensuring a balanced dataset. 
+
+
