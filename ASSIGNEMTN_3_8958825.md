@@ -67,3 +67,12 @@ To ensure the project is executed effectively, the requirements have been broken
 - **Task 5.2:** Support **multiple data formats** (e.g., CSV, JSON) for importing and exporting training data to ensure compatibility with various tools.  
 
 ---
+
+## Task Prioritization  
+To ensure the project progresses smoothly, the tasks have been prioritized based on their importance and dependencies.  
+
+### **High Priority Tasks (Must be completed first):**  
+1. **Task 1.1:** Design and implement the **UI for categorizing training questions**.  
+2. **Task 1.2:** Develop the **backend system** for storing categorized questions.  
+3. **Task 3.1:** Optimize the system for **scalability**.  
+4. **Task 4.1:** Implement **data encryption**.  
