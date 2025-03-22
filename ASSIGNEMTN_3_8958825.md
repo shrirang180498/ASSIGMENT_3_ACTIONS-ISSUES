@@ -56,3 +56,6 @@ To ensure the project is executed effectively, the requirements have been broken
 - **Task 3.1:** Optimize the system to handle **large datasets** (millions of questions and answers) without performance issues. This includes implementing efficient database indexing and query optimization.  
 - **Task 3.2:** Introduce **parallel processing** to speed up data classification, analysis, and bias detection tasks.  
 
+### **4. Data Protection**  
+- **Task 4.1:** Implement **encryption** for all data in transit and at rest. Use industry-standard encryption protocols (e.g., AES-256) to ensure data security.  
+- **Task 4.2:** Develop an **access control system** to restrict data access to authorized developers. This should include role-based access control (RBAC) and multi-factor authentication (MFA).  
